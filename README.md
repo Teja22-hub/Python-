@@ -5,4 +5,4 @@ return s
 num1=int(input("enter the first number:"))
 num2=int(input("enter the second number:"))
 sum=calsum(num1,num2)
-print("sum of two given numbers is:")
+print("sum of two given numbers is:",sum)
